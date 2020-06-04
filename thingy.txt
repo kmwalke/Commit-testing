@@ -1,1 +1,3 @@
-This is a thingy
+This is a thingy.
+
+Newline
